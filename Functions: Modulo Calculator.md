@@ -11,9 +11,19 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
-
-Add code Here
+```
+if b==0:
+    print("a is not allowed to divide by b")
+else:
+    modulo=result(a,b)
+    print("modulo is",modulo)
+```
 
 ## Output
+<img width="437" height="193" alt="image" src="https://github.com/user-attachments/assets/02d67b27-f894-4efa-90a5-106e58c967c2" />
+
 
 ## Result
+Thus, the python program was executed successfully
+
+
